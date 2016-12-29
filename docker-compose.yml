@@ -10,7 +10,7 @@ services:
     volumes:
       - ./blog/wp-newstrick:/var/www/html/wp-content/themes/wp-newstrick
     links:
-      - db
+      - mysql
 
   mysql:
     image: mariadb
