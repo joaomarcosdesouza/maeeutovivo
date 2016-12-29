@@ -1,0 +1,110 @@
+/*
+Theme Name: NewsTrick - Responsive WordPress Blog Theme
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+
+.meta-time { padding-left: 9px; }
+.post-format { left: 0; right: inherit; }
+.post-format i { margin-right: 1px; }
+.read-more { float: left; padding-left: 32px; }
+.ct-rating { float: right; margin-right: 0; margin-left: 20px; }
+.ct-rating-s { float: right; margin: 5px 0px 2px 20px; }
+.meta .meta-likes, .meta .meta-comments, .meta .meta-views, .meta .meta-date { margin-left: 15px; margin-right: 0; }
+#entry-post .post-like { float: right; margin-left: 15px; }
+a.comment-reply-link { float: right; }
+.criteria_name { float: right; margin-right: 0; margin-left: 15px; }
+.rating-stars { float: left; }
+.widget .tagcloud a[class|=tag-link],
+.tagcloud a[class|=tag-link],
+#entry-post a[rel=tag] { float: right; margin-right: 0; margin-left: 5px; }
+#entry-counters #social-counter .arrow-down { left: inherit; right: 22px; }
+#social-counter .arrow-down { right: 26px; }
+ul, ol { margin: 0 25px 10px 0; }
+#ajax-contact-form .span10 { float: right; }
+#ajax-contact-form .span5 { float: right; }
+.widget-slider, .flex-carousel, .small-slider { direction: ltr; overflow: hidden; }
+.flexslider .slides > li {text-align:right;direction:rtl;}
+.small-slider .flex-next { left: 20px; right: inherit;}
+.small-slider .flex-prev { left: 0; right: inherit;}
+.small-slider .entry-title { padding-right: 0; padding-left: 45px; }
+.widget-one-column-horizontal, .popular-posts-widget, .recent-posts-widget, .recent-comments-widget { margin-right: 0; }
+.meta .meta-author { margin-right: 0; }
+.news-title { padding-right: 0; }
+.ct-tabs ul { margin-right: 0; }
+[class^="ct-flickr-"] li { float: right; }
+.sf-menu-flat .sub-menu { margin-right: 0; }
+.related-posts-single li { float: right; }
+.meta .meta-category { margin-right: 0; margin-left: 15px; }
+
+.navigation select { padding-right: 40px; }
+
+.widget-post-small-thumb {
+float: right;
+}
+
+.widget-post-small-thumb img {
+margin-left: 15px;
+margin-right: 0;
+}
+
+.span3.logo-block {
+	float: right;
+	margin-left: margin-left: 2.564102564102564%;
+}
+
+.span9.banner-block {
+	margin-left: 0;
+}
+
+.banner {
+float: none;
+text-align: left;
+}
+
+.sf-menu > li {
+float: right;
+}
+
+#menu {
+float: right;
+margin-right: 20px;
+margin-left: 0;
+}
+
+.sf-arrows .sf-with-ul:after {
+border-width: 8px 0 0 8px;
+border-color: transparent transparent transparent #dbdbdb;
+left: -15px;
+right: inherit;
+top: 6px;
+}
+
+.sf-menu ul {
+right: 0;
+left: inherit;
+}
+
+.sf-arrows .sub-menu .sf-with-ul:after {
+right: inherit;
+left: 10px;
+}
+
+.sf-menu ul ul {
+left: inherit;
+right: 100%;
+}

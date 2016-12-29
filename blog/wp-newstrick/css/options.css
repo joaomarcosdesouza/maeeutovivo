@@ -1,0 +1,61 @@
+/* Initial CSS */
+
+.widget-title { background:#FF0000; }
+.widget-title .arrow-down { border-top-color: #FF0000; }
+
+/* Drop-Down menu bg color */
+.ct-dropdown-menu { background:#FFF; }
+
+
+#top-block-bg, #bottom-block-bg, top-block-bg-boxed { background:#FFF;}
+/* #mainmenu-block-bg, #bottommenu-block-bg { } */
+
+/* Border Color */
+.border-1px, .widget-slider .flex-direction-nav { border: 1px solid #A5A5A5; }
+
+a { color: #08C; }
+	textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+	border-color: #08C;
+}
+
+
+/* Links Color */
+.widget .category-title a:hover,
+#pbd-alp-load-posts a:hover, #pbd-alp-load-posts a:active,
+.widget li.cat-item a:hover, .left-col a:hover, .right-col a:hover,
+#social-counter li:hover .social,
+.copyright a:hover, .add-info a:hover,
+.meta-comments a:hover, .meta-category a:hover,
+#comments a.muted-small:hover,
+.two-column-widget .post-title a:hover,
+ul.popular-post-widget .comments a:hover,
+.pagination a:hover,
+.sf-menu-flat .sub-menu a:hover,
+.sf-menu-flat a:hover,
+.sf-menu.add-nav li a:hover,
+.sf-menu li:hover, .sf-menu li.sfHover, .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active, .sf-menu .active a,
+[id^="v-newsticker-"] .entry-tags a:hover, [id^="v-newsticker-"] .entry-category a:hover,
+h2.entry-title a:hover, h4.entry-title a:hover, h5.entry-title a:hover,
+.news-title h4 a:hover, .colored,
+.meta-posted-by a:hover, .comment-text a:hover,
+.popular-posts-widget .post-title a:hover,
+.tweet_list .tweet_time a:hover,
+.recent-posts-widget .post-title a:hover,
+.one-column-widget .post-title a:hover,
+.two-column-widget  .post-title a:hover,
+.popular-posts-widget .post-title a:hover { color: #08C; }
+
+.tagcloud a[class|=tag-link]:hover { background-color:#08C; }
+.pagination a:hover, .pagination .current { background: #08C; }
+
+
+/* Stretch images */
+.widget-post-big-thumb img, .widget .entry-thumb img, .widget .single-media-thumb img, #entry-blog .entry-thumb img, #entry-blog .single-media-thumb img { width:100%;}
+
+::selection { 	background-color: #08C !important; color: #fff	 }
+::-moz-selection { 	background-color: #08C !important;	 }
+
+/* Google Fonts for headings */
+
+/* For image preloader */
+.cat-one-columnn .meta-time { visibility:visible; }

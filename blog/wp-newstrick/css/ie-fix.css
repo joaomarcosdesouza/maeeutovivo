@@ -1,0 +1,52 @@
+﻿/* 
+   ----------------------------------------------------------------------------
+							Internet Explorer Fix
+   ----------------------------------------------------------------------------
+*/
+
+#mainmenu-block-bg { background:#2F2F2F !important;}
+.flex-direction-nav .flex-prev {left: 0;}
+.flex-direction-nav .flex-next {right: 0; }
+#social-counter li { margin-right: 9px; width: 50px; }
+#social-counter .fans {font-size: 10px;}
+#search-block #s {width: 70%;}
+.widget-post-small-thumb img { max-width: 50px; }
+.banner img { width:100%; max-width:auto; }
+.banner { float:none;}
+
+.single-media-thumb .mask, .single-box-entry .mask {
+	width:100%;
+	height:100%;
+}
+.single-media-thumb .mask a, .single-box-entry .mask a {
+	width:100%;;
+	height:100%;
+	display: block;
+}
+.single-media-thumb:hover .mask {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=20);
+	filter: alpha(opacity=20);
+}
+
+.single-media-thumb .mask, .single-box-entry .mask {
+	background-color:#fff;
+}
+.top-block #search-block {
+	display:none;
+}
+.recent-post-widget img {
+	width:50px;
+	max-width:50px;
+}
+.related-posts-single li a img {
+max-width:150px;
+width: 150px;
+height: 150px;
+}
+
+#respond [type=text], #respond [type=email], #contacts-form [type=text], #contacts-form [type=url], #contacts-form [type=email]
+{ padding-top:0; padding-bottom:0; line-height:18px; min-height:28px;}
+
+#respond textarea {
+width: 390px;
+}

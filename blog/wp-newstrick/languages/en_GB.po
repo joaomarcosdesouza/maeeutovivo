@@ -1,0 +1,2938 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsTrick - Responsive WordPress Blog Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-02-07 19:26:06+0000\n"
+"Last-Translator: admin <zerge.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:21
+#@ color-theme-framework
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:25
+#@ color-theme-framework
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:455
+#@ color-theme-framework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:42
+#: admin/front-end/options.php:66
+#@ color-theme-framework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:67
+#@ color-theme-framework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ color-theme-framework
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/functions/functions.options.php:142
+#@ color-theme-framework
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:163
+#@ color-theme-framework
+msgid "Sticky main menu (applies only for drop-down menu type)"
+msgstr ""
+
+#: admin/functions/functions.options.php:164
+#@ color-theme-framework
+msgid "Stick main menu to the top"
+msgstr ""
+
+#: admin/functions/functions.options.php:170
+#@ color-theme-framework
+msgid "Menu Type"
+msgstr ""
+
+#: admin/functions/functions.options.php:171
+#@ color-theme-framework
+msgid "Select style for main menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:177
+#@ color-theme-framework
+msgid "Top/Bottom blocks style"
+msgstr ""
+
+#: admin/functions/functions.options.php:178
+#@ color-theme-framework
+msgid "Select style for top block"
+msgstr ""
+
+#: admin/functions/functions.options.php:184
+#@ color-theme-framework
+msgid "Use Image Preloader"
+msgstr ""
+
+#: admin/functions/functions.options.php:185
+#@ color-theme-framework
+msgid "Awesome Image Preloader feature"
+msgstr ""
+
+#: admin/functions/functions.options.php:191
+#@ color-theme-framework
+msgid "Number of Home page widgetized areas (rows)"
+msgstr ""
+
+#: admin/functions/functions.options.php:192
+#@ color-theme-framework
+msgid "Enter the number of areas.<br/>Appears on Appearance &rarr; Widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:197
+#@ color-theme-framework
+msgid "Type of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:198
+#@ color-theme-framework
+msgid "Select your logo type ( Image or Text )"
+msgstr ""
+
+#: admin/functions/functions.options.php:205
+#@ color-theme-framework
+msgid "Custm Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:206
+#@ color-theme-framework
+msgid "Upload a logo for your theme, or specify the image address of your online logo. (http://example.com/logo.png)"
+msgstr ""
+
+#: admin/functions/functions.options.php:211
+#@ color-theme-framework
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:212
+#@ color-theme-framework
+msgid "Enter text for logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:217
+#@ color-theme-framework
+msgid "Logo Slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:218
+#@ color-theme-framework
+msgid "Enter text for logo slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:223
+#@ color-theme-framework
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:224
+#@ color-theme-framework
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:229
+#@ color-theme-framework
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:230
+#@ color-theme-framework
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:243
+#@ color-theme-framework
+msgid "ThemeForest Username"
+msgstr ""
+
+#: admin/functions/functions.options.php:244
+#@ color-theme-framework
+msgid "Enter your username"
+msgstr ""
+
+#: admin/functions/functions.options.php:249
+#@ color-theme-framework
+msgid "API key"
+msgstr ""
+
+#: admin/functions/functions.options.php:250
+#@ color-theme-framework
+msgid "Enter your API key"
+msgstr ""
+
+#: admin/functions/functions.options.php:264
+#@ color-theme-framework
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:265
+#@ color-theme-framework
+msgid "Pick a background color (default: #f7ede4)."
+msgstr ""
+
+#: admin/functions/functions.options.php:270
+#@ color-theme-framework
+msgid "Links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:271
+#@ color-theme-framework
+msgid "Pick a color for the links (default: #E64946)"
+msgstr ""
+
+#: admin/functions/functions.options.php:276
+#@ color-theme-framework
+msgid "Header background color"
+msgstr ""
+
+#: admin/functions/functions.options.php:277
+#@ color-theme-framework
+msgid "Pick a background color (default: #FFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:282
+#@ color-theme-framework
+msgid "Background color for main menu (applies only for drop-down menu)"
+msgstr ""
+
+#: admin/functions/functions.options.php:283
+#@ color-theme-framework
+msgid "Pick a background color (default: #FFF)"
+msgstr ""
+
+#: admin/functions/functions.options.php:288
+#@ color-theme-framework
+msgid "Theme border color"
+msgstr ""
+
+#: admin/functions/functions.options.php:289
+#@ color-theme-framework
+msgid "Pick a border color, for widgets, etc. (default: #A5A5A5)."
+msgstr ""
+
+#: admin/functions/functions.options.php:294
+#@ color-theme-framework
+msgid "Background color for title of standard or third-party widgets"
+msgstr ""
+
+#: admin/functions/functions.options.php:295
+#@ color-theme-framework
+msgid "Pick a background color, for widgets (default: #FF0000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:308
+#@ color-theme-framework
+msgid "Use Predefined Background Image / BG Color / Upload Your Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:309
+#@ color-theme-framework
+msgid "Select the type of usage background"
+msgstr ""
+
+#: admin/functions/functions.options.php:315
+#@ color-theme-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/functions/functions.options.php:316
+#@ color-theme-framework
+msgid "Select the background image property"
+msgstr ""
+
+#: admin/functions/functions.options.php:322
+#@ color-theme-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:323
+#@ color-theme-framework
+msgid "Select the default background repeat for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:329
+#@ color-theme-framework
+msgid "Background Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:330
+#@ color-theme-framework
+msgid "Select the default background position for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:336
+#@ color-theme-framework
+msgid "Uploaded Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:337
+#@ color-theme-framework
+msgid "Upload image for background using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:342
+#@ color-theme-framework
+msgid "Predefined Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:343
+#@ color-theme-framework
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:350
+#@ color-theme-framework
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:351
+#@ color-theme-framework
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+#@ color-theme-framework
+msgid "Use Google Fonts For Headings"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+#@ color-theme-framework
+msgid "Enable/Disable Google fonts"
+msgstr ""
+
+#: admin/functions/functions.options.php:363
+#@ color-theme-framework
+msgid "Google Fonts Link Stylesheet"
+msgstr ""
+
+#: admin/functions/functions.options.php:364
+#@ color-theme-framework
+msgid "Paste code for stylesheet from Google Fonts"
+msgstr ""
+
+#: admin/functions/functions.options.php:369
+#@ color-theme-framework
+msgid "Google Fonts Family"
+msgstr ""
+
+#: admin/functions/functions.options.php:370
+#@ color-theme-framework
+msgid "Paste code for Fonts from Google"
+msgstr ""
+
+#: admin/functions/functions.options.php:382
+#@ color-theme-framework
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:385
+#@ color-theme-framework
+msgid "Select a layout for Single post template"
+msgstr ""
+
+#: admin/functions/functions.options.php:399
+#@ color-theme-framework
+msgid "Select a layout for Blog template"
+msgstr ""
+
+#: admin/functions/functions.options.php:413
+#@ color-theme-framework
+msgid "Select a layout for Category template"
+msgstr ""
+
+#: admin/functions/functions.options.php:414
+#@ color-theme-framework
+msgid "Select category content and sidebars alignment."
+msgstr ""
+
+#: admin/functions/functions.options.php:434
+#@ color-theme-framework
+msgid "Meta info"
+msgstr ""
+
+#: admin/functions/functions.options.php:435
+#@ color-theme-framework
+msgid "Display on the category, tag, archives, search pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:442
+#@ color-theme-framework
+msgid "Number of posts to display for a Blog widget:"
+msgstr ""
+
+#: admin/functions/functions.options.php:448
+#@ color-theme-framework
+msgid "Type of pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:449
+#@ color-theme-framework
+msgid "Select a pagination type for category, tags, etc."
+msgstr ""
+
+#: admin/functions/functions.options.php:456
+#@ color-theme-framework
+msgid "Type of divider (below the post meta)"
+msgstr ""
+
+#: admin/functions/functions.options.php:457
+#@ color-theme-framework
+msgid "Select a divider type for category, tags, etc."
+msgstr ""
+
+#: admin/functions/functions.options.php:464
+#@ color-theme-framework
+msgid "Thumb type for video posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:465
+#@ color-theme-framework
+msgid "Select a thumb type for video posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:472
+#@ color-theme-framework
+msgid "Use Excerpt or Content Function?"
+msgstr ""
+
+#: admin/functions/functions.options.php:473
+#@ color-theme-framework
+msgid "Select a Excerpt (automatically) or Content (More tag)"
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+#@ color-theme-framework
+msgid "Length of post excerpt (chars)"
+msgstr ""
+
+#: admin/functions/functions.options.php:481
+#@ color-theme-framework
+msgid "Enter  the length of excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:487
+#: content-single.php:231
+#@ color-theme-framework
+msgid "About the author"
+msgstr ""
+
+#: admin/functions/functions.options.php:488
+#@ color-theme-framework
+msgid "Show or Hide info about the author in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:494
+#@ color-theme-framework
+msgid "Featured image"
+msgstr ""
+
+#: admin/functions/functions.options.php:495
+#@ color-theme-framework
+msgid "Show or Hide featured image in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:501
+#@ color-theme-framework
+msgid "Stretch thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:502
+#@ color-theme-framework
+msgid "Stretch or Not thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:508
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:509
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images with links"
+msgstr ""
+
+#: admin/functions/functions.options.php:515
+#@ color-theme-framework
+msgid "Code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:516
+#@ color-theme-framework
+msgid "Paste code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:522
+#@ color-theme-framework
+msgid "Choose the comments type"
+msgstr ""
+
+#: admin/functions/functions.options.php:529
+#@ color-theme-framework
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:530
+#@ color-theme-framework
+msgid "Enter the Facebook App ID of your app (required if Facebook comments type selected)"
+msgstr ""
+
+#: admin/functions/functions.options.php:535
+#@ color-theme-framework
+msgid "Disqus shortname "
+msgstr ""
+
+#: admin/functions/functions.options.php:536
+#@ color-theme-framework
+msgid "Enter the your website's shortname (required if Disqus comments type selected)"
+msgstr ""
+
+#: admin/functions/functions.options.php:547
+#@ color-theme-framework
+msgid "Ads Banner Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:550
+#@ color-theme-framework
+msgid "Show banner: "
+msgstr ""
+
+#: admin/functions/functions.options.php:551
+#@ color-theme-framework
+msgid "Show or hide banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:557
+#@ color-theme-framework
+msgid "Site Header Banner Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:558
+#@ color-theme-framework
+msgid "Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:563
+#@ color-theme-framework
+msgid "Site Header Banner URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:564
+#@ color-theme-framework
+msgid "Enter clickthrough url for banner in top section"
+msgstr ""
+
+#: admin/functions/functions.options.php:569
+#@ color-theme-framework
+msgid "Site Header Ads\\Banner Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:570
+#@ color-theme-framework
+msgid "Paste your Google Adsense (or other) code here."
+msgstr ""
+
+#: admin/functions/functions.options.php:580
+#: admin/functions/functions.options.php:583
+#@ color-theme-framework
+msgid "Copyrights"
+msgstr ""
+
+#: admin/functions/functions.options.php:584
+#@ color-theme-framework
+msgid "Enter your copyrights"
+msgstr ""
+
+#: admin/functions/functions.options.php:589
+#@ color-theme-framework
+msgid "Additional info"
+msgstr ""
+
+#: admin/functions/functions.options.php:590
+#@ color-theme-framework
+msgid "Additional info (text or banner)"
+msgstr ""
+
+#: admin/functions/functions.options.php:598
+#@ color-theme-framework
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:601
+#@ color-theme-framework
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:608
+#@ color-theme-framework
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+#@ color-theme-framework
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34
+#@ color-theme-framework
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35
+#@ color-theme-framework
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+#@ color-theme-framework
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:45
+#@ color-theme-framework
+msgid "Comments are closed."
+msgstr ""
+
+#: content-archive.php:60
+#, php-format
+#@ color-theme-framework
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: content-archive.php:62
+#, php-format
+#@ color-theme-framework
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: content-archive.php:62
+#@ color-theme-framework
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: content-archive.php:64
+#, php-format
+#@ color-theme-framework
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: content-archive.php:64
+#@ color-theme-framework
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: content-archive.php:66
+#@ color-theme-framework
+msgid "Blog Archives"
+msgstr ""
+
+#: content-archive.php:165
+#: content-archive.php:175
+#: content-author.php:194
+#: content-author.php:204
+#: content-category.php:161
+#: content-category.php:171
+#: content-search.php:158
+#: content-search.php:168
+#: content-single.php:80
+#: content-tag.php:155
+#: content-tag.php:165
+#: functions/newstrick-blog-widget.php:233
+#: functions/newstrick-blog-widget.php:243
+#: functions/newstrick-one-column-category-widget.php:151
+#: functions/newstrick-one-column-category-widget.php:161
+#: functions/newstrick-one-column-thumbs-widget.php:155
+#: functions/newstrick-one-column-thumbs-widget.php:165
+#: functions/newstrick-three-columns-thumbs-widget.php:184
+#: functions/newstrick-three-columns-thumbs-widget.php:194
+#: functions/newstrick-three-columns-thumbs-widget.php:382
+#: functions/newstrick-three-columns-thumbs-widget.php:392
+#: functions/newstrick-three-columns-thumbs-widget.php:571
+#: functions/newstrick-three-columns-thumbs-widget.php:581
+#: functions/newstrick-two-columns-thumbs-widget.php:171
+#: functions/newstrick-two-columns-thumbs-widget.php:181
+#: functions/newstrick-two-columns-thumbs-widget.php:365
+#: functions/newstrick-two-columns-thumbs-widget.php:375
+#@ color-theme-framework
+msgid "Posted by "
+msgstr ""
+
+#: content-archive.php:176
+#: content-author.php:205
+#: content-category.php:172
+#: content-search.php:169
+#: content-tag.php:166
+#: functions/newstrick-blog-widget.php:244
+#: functions/newstrick-one-column-category-widget.php:162
+#: functions/newstrick-one-column-thumbs-widget.php:166
+#: functions/newstrick-three-columns-thumbs-widget.php:195
+#: functions/newstrick-three-columns-thumbs-widget.php:393
+#: functions/newstrick-three-columns-thumbs-widget.php:582
+#: functions/newstrick-two-columns-thumbs-widget.php:182
+#: functions/newstrick-two-columns-thumbs-widget.php:376
+#@ color-theme-framework
+msgid "on"
+msgstr ""
+
+#: content-archive.php:183
+#: content-author.php:212
+#: content-category.php:179
+#: content-search.php:176
+#: content-tag.php:173
+#: functions/newstrick-blog-widget.php:251
+#: functions/newstrick-one-column-category-widget.php:169
+#: functions/newstrick-one-column-thumbs-widget.php:173
+#: functions/newstrick-one-column-thumbs-widget.php:232
+#: functions/newstrick-one-column-thumbs-widget.php:237
+#: functions/newstrick-one-column-thumbs-widget.php:244
+#: functions/newstrick-popular-posts-widget.php:192
+#: functions/newstrick-popular-posts-widget.php:198
+#: functions/newstrick-popular-posts-widget.php:206
+#: functions/newstrick-recent-posts-widget.php:153
+#: functions/newstrick-recent-posts-widget.php:159
+#: functions/newstrick-recent-posts-widget.php:167
+#: functions/newstrick-small-slider-widget.php:150
+#: functions/newstrick-tabbed-widget.php:182
+#: functions/newstrick-tabbed-widget.php:188
+#: functions/newstrick-tabbed-widget.php:196
+#: functions/newstrick-three-columns-thumbs-widget.php:202
+#: functions/newstrick-three-columns-thumbs-widget.php:260
+#: functions/newstrick-three-columns-thumbs-widget.php:265
+#: functions/newstrick-three-columns-thumbs-widget.php:272
+#: functions/newstrick-three-columns-thumbs-widget.php:400
+#: functions/newstrick-three-columns-thumbs-widget.php:455
+#: functions/newstrick-three-columns-thumbs-widget.php:460
+#: functions/newstrick-three-columns-thumbs-widget.php:467
+#: functions/newstrick-three-columns-thumbs-widget.php:589
+#: functions/newstrick-three-columns-thumbs-widget.php:644
+#: functions/newstrick-three-columns-thumbs-widget.php:649
+#: functions/newstrick-three-columns-thumbs-widget.php:656
+#: functions/newstrick-two-columns-thumbs-widget.php:189
+#: functions/newstrick-two-columns-thumbs-widget.php:244
+#: functions/newstrick-two-columns-thumbs-widget.php:249
+#: functions/newstrick-two-columns-thumbs-widget.php:256
+#: functions/newstrick-two-columns-thumbs-widget.php:383
+#: functions/newstrick-two-columns-thumbs-widget.php:438
+#: functions/newstrick-two-columns-thumbs-widget.php:443
+#: functions/newstrick-two-columns-thumbs-widget.php:450
+#: functions.php:1406
+#@ color-theme-framework
+msgid "Permalink to "
+msgstr ""
+
+#: content-author.php:71
+#, php-format
+#@ color-theme-framework
+msgid "Author Archives: %s"
+msgstr ""
+
+#: content-author.php:84
+#@ color-theme-framework
+msgid "Full Name: "
+msgstr ""
+
+#: content-author.php:86
+#@ color-theme-framework
+msgid "Website: "
+msgstr ""
+
+#: content-author.php:87
+#@ color-theme-framework
+msgid "Info: "
+msgstr ""
+
+#: content-category.php:59
+#: content-category.php:62
+#@ color-theme-framework
+msgid "Posts by Category: "
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:193
+#: functions.php:1479
+#@ color-theme-framework
+msgid "Edit"
+msgstr ""
+
+#: content-search.php:61
+#@ color-theme-framework
+msgid "Search Results for"
+msgstr ""
+
+#: content-search.php:230
+#@ color-theme-framework
+msgid "Nothing Found"
+msgstr ""
+
+#: content-search.php:235
+#@ color-theme-framework
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: content-single.php:236
+#@ color-theme-framework
+msgid "View all articles by "
+msgstr ""
+
+#: content-single.php:247
+#@ color-theme-framework
+msgid "Facebook Comments"
+msgstr ""
+
+#: content-single.php:282
+#: content-single.php:289
+#@ color-theme-framework
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: content-single.php:283
+#: content-single.php:293
+#@ color-theme-framework
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: content-tag.php:58
+#, php-format
+#@ color-theme-framework
+msgid "Posts by tag: %s"
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+#@ color-theme-framework
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+#@ color-theme-framework
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+#@ color-theme-framework
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+#@ color-theme-framework
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:279
+#@ color-theme-framework
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:290
+#@ color-theme-framework
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:41
+#@ color-theme-framework
+msgid "Blog Widget"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:47
+#@ color-theme-framework
+msgid "CT: Blog Widget"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:353
+#@ color-theme-framework
+msgid "Latest Posts"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:394
+#: functions/newstrick-carousel-widget.php:268
+#: functions/newstrick-categories-widget.php:160
+#: functions/newstrick-fblikebox-widget.php:159
+#: functions/newstrick-fbsubscribe-widget.php:157
+#: functions/newstrick-flickr-widget.php:200
+#: functions/newstrick-instagram-widget.php:201
+#: functions/newstrick-news-ticker-horizontal-widget.php:198
+#: functions/newstrick-news-ticker-vertical-widget.php:240
+#: functions/newstrick-one-column-category-widget.php:274
+#: functions/newstrick-one-column-thumbs-widget.php:364
+#: functions/newstrick-popular-posts-widget.php:297
+#: functions/newstrick-recent-posts-thumbs-widget.php:202
+#: functions/newstrick-recent-posts-widget.php:276
+#: functions/newstrick-related-posts-thumbs-widget.php:202
+#: functions/newstrick-search-widget.php:129
+#: functions/newstrick-slider-widget.php:432
+#: functions/newstrick-small-slider-widget.php:270
+#: functions/newstrick-social-counter-widget.php:252
+#: functions/newstrick-social-widget.php:206
+#: functions/newstrick-text-widget.php:178
+#: functions/newstrick-three-columns-thumbs-widget.php:828
+#: functions/newstrick-three-columns-thumbs-widget.php:900
+#: functions/newstrick-three-columns-thumbs-widget.php:975
+#: functions/newstrick-twitter-widget.php:170
+#: functions/newstrick-two-columns-thumbs-widget.php:596
+#: functions/newstrick-two-columns-thumbs-widget.php:673
+#@ color-theme-framework
+msgid "Title:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:399
+#: functions/newstrick-carousel-widget.php:308
+#: functions/newstrick-one-column-category-widget.php:279
+#: functions/newstrick-one-column-thumbs-widget.php:403
+#: functions/newstrick-popular-posts-widget.php:303
+#: functions/newstrick-recent-posts-thumbs-widget.php:233
+#: functions/newstrick-recent-posts-widget.php:282
+#: functions/newstrick-slider-widget.php:462
+#: functions/newstrick-small-slider-widget.php:315
+#: functions/newstrick-tabbed-widget.php:364
+#: functions/newstrick-three-columns-thumbs-widget.php:867
+#: functions/newstrick-three-columns-thumbs-widget.php:939
+#: functions/newstrick-three-columns-thumbs-widget.php:1014
+#: functions/newstrick-two-columns-thumbs-widget.php:635
+#: functions/newstrick-two-columns-thumbs-widget.php:712
+#@ color-theme-framework
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:405
+#: functions/newstrick-one-column-thumbs-widget.php:374
+#: functions/newstrick-popular-posts-widget.php:318
+#: functions/newstrick-recent-posts-widget.php:297
+#: functions/newstrick-tabbed-widget.php:379
+#: functions/newstrick-three-columns-thumbs-widget.php:838
+#: functions/newstrick-three-columns-thumbs-widget.php:910
+#: functions/newstrick-three-columns-thumbs-widget.php:985
+#: functions/newstrick-two-columns-thumbs-widget.php:606
+#: functions/newstrick-two-columns-thumbs-widget.php:683
+#@ color-theme-framework
+msgid "Post meta info"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:410
+#: functions/newstrick-one-column-thumbs-widget.php:379
+#: functions/newstrick-popular-posts-widget.php:323
+#: functions/newstrick-recent-posts-widget.php:302
+#: functions/newstrick-small-slider-widget.php:281
+#: functions/newstrick-tabbed-widget.php:384
+#: functions/newstrick-three-columns-thumbs-widget.php:843
+#: functions/newstrick-three-columns-thumbs-widget.php:915
+#: functions/newstrick-three-columns-thumbs-widget.php:990
+#: functions/newstrick-two-columns-thumbs-widget.php:611
+#: functions/newstrick-two-columns-thumbs-widget.php:688
+#@ color-theme-framework
+msgid "Show likes"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:415
+#: functions/newstrick-one-column-thumbs-widget.php:384
+#: functions/newstrick-popular-posts-widget.php:328
+#: functions/newstrick-recent-posts-widget.php:307
+#: functions/newstrick-small-slider-widget.php:286
+#: functions/newstrick-tabbed-widget.php:389
+#: functions/newstrick-three-columns-thumbs-widget.php:848
+#: functions/newstrick-three-columns-thumbs-widget.php:920
+#: functions/newstrick-three-columns-thumbs-widget.php:995
+#: functions/newstrick-two-columns-thumbs-widget.php:616
+#: functions/newstrick-two-columns-thumbs-widget.php:693
+#@ color-theme-framework
+msgid "Show comments"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:420
+#: functions/newstrick-one-column-thumbs-widget.php:389
+#: functions/newstrick-popular-posts-widget.php:333
+#: functions/newstrick-recent-posts-widget.php:312
+#: functions/newstrick-small-slider-widget.php:291
+#: functions/newstrick-tabbed-widget.php:394
+#: functions/newstrick-three-columns-thumbs-widget.php:853
+#: functions/newstrick-three-columns-thumbs-widget.php:925
+#: functions/newstrick-three-columns-thumbs-widget.php:1000
+#: functions/newstrick-two-columns-thumbs-widget.php:621
+#: functions/newstrick-two-columns-thumbs-widget.php:698
+#@ color-theme-framework
+msgid "Show views"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:425
+#: functions/newstrick-one-column-thumbs-widget.php:394
+#: functions/newstrick-popular-posts-widget.php:338
+#: functions/newstrick-recent-posts-widget.php:317
+#: functions/newstrick-small-slider-widget.php:296
+#: functions/newstrick-tabbed-widget.php:399
+#: functions/newstrick-three-columns-thumbs-widget.php:858
+#: functions/newstrick-three-columns-thumbs-widget.php:930
+#: functions/newstrick-three-columns-thumbs-widget.php:1005
+#: functions/newstrick-two-columns-thumbs-widget.php:626
+#: functions/newstrick-two-columns-thumbs-widget.php:703
+#@ color-theme-framework
+msgid "Show date"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:430
+#: functions/newstrick-one-column-thumbs-widget.php:399
+#: functions/newstrick-popular-posts-widget.php:343
+#: functions/newstrick-recent-posts-widget.php:322
+#: functions/newstrick-small-slider-widget.php:301
+#: functions/newstrick-tabbed-widget.php:404
+#: functions/newstrick-three-columns-thumbs-widget.php:863
+#: functions/newstrick-three-columns-thumbs-widget.php:935
+#: functions/newstrick-three-columns-thumbs-widget.php:1010
+#: functions/newstrick-two-columns-thumbs-widget.php:631
+#: functions/newstrick-two-columns-thumbs-widget.php:708
+#@ color-theme-framework
+msgid "Show category"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:434
+#@ color-theme-framework
+msgid "Type of Pagination:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:442
+#: functions/newstrick-one-column-category-widget.php:285
+#: functions/newstrick-one-column-thumbs-widget.php:409
+#: functions/newstrick-three-columns-thumbs-widget.php:873
+#: functions/newstrick-three-columns-thumbs-widget.php:945
+#: functions/newstrick-three-columns-thumbs-widget.php:1020
+#: functions/newstrick-two-columns-thumbs-widget.php:641
+#: functions/newstrick-two-columns-thumbs-widget.php:718
+#@ color-theme-framework
+msgid "Length of post excerpt (chars):"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:447
+#@ color-theme-framework
+msgid "Height of embedded audio/video (px):"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:452
+#: functions/newstrick-carousel-widget.php:273
+#: functions/newstrick-news-ticker-horizontal-widget.php:213
+#: functions/newstrick-news-ticker-vertical-widget.php:245
+#: functions/newstrick-one-column-category-widget.php:295
+#: functions/newstrick-one-column-thumbs-widget.php:419
+#: functions/newstrick-recent-posts-thumbs-widget.php:207
+#: functions/newstrick-recent-posts-widget.php:331
+#: functions/newstrick-slider-widget.php:496
+#: functions/newstrick-small-slider-widget.php:341
+#: functions/newstrick-tabbed-widget.php:413
+#: functions/newstrick-three-columns-thumbs-widget.php:878
+#: functions/newstrick-three-columns-thumbs-widget.php:950
+#: functions/newstrick-three-columns-thumbs-widget.php:1025
+#: functions/newstrick-two-columns-thumbs-widget.php:651
+#: functions/newstrick-two-columns-thumbs-widget.php:728
+#@ color-theme-framework
+msgid "Filter by Category:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:463
+#: functions/newstrick-carousel-widget.php:314
+#: functions/newstrick-categories-widget.php:165
+#: functions/newstrick-fblikebox-widget.php:198
+#: functions/newstrick-fbsubscribe-widget.php:195
+#: functions/newstrick-flickr-widget.php:230
+#: functions/newstrick-instagram-widget.php:231
+#: functions/newstrick-instagram-widget.php:240
+#: functions/newstrick-news-ticker-horizontal-widget.php:232
+#: functions/newstrick-news-ticker-vertical-widget.php:293
+#: functions/newstrick-one-column-category-widget.php:306
+#: functions/newstrick-one-column-thumbs-widget.php:430
+#: functions/newstrick-popular-posts-widget.php:369
+#: functions/newstrick-recent-posts-thumbs-widget.php:239
+#: functions/newstrick-recent-posts-widget.php:350
+#: functions/newstrick-related-posts-thumbs-widget.php:225
+#: functions/newstrick-search-widget.php:134
+#: functions/newstrick-slider-widget.php:552
+#: functions/newstrick-small-slider-widget.php:352
+#: functions/newstrick-social-counter-widget.php:298
+#: functions/newstrick-social-widget.php:301
+#: functions/newstrick-tabbed-widget.php:456
+#: functions/newstrick-text-widget.php:202
+#: functions/newstrick-three-columns-thumbs-widget.php:1050
+#: functions/newstrick-twitter-widget.php:192
+#: functions/newstrick-two-columns-thumbs-widget.php:751
+#@ color-theme-framework
+msgid "Widget width:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:481
+#: functions/newstrick-one-column-category-widget.php:324
+#: functions/newstrick-one-column-thumbs-widget.php:448
+#: functions/newstrick-three-columns-thumbs-widget.php:1073
+#: functions/newstrick-two-columns-thumbs-widget.php:769
+#@ color-theme-framework
+msgid "Divider type (below the first post):"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:489
+#: functions/newstrick-carousel-widget.php:332
+#: functions/newstrick-categories-widget.php:183
+#: functions/newstrick-fblikebox-widget.php:216
+#: functions/newstrick-fbsubscribe-widget.php:213
+#: functions/newstrick-flickr-widget.php:248
+#: functions/newstrick-instagram-widget.php:258
+#: functions/newstrick-news-ticker-horizontal-widget.php:250
+#: functions/newstrick-news-ticker-vertical-widget.php:311
+#: functions/newstrick-one-column-category-widget.php:332
+#: functions/newstrick-one-column-thumbs-widget.php:456
+#: functions/newstrick-popular-posts-widget.php:387
+#: functions/newstrick-recent-posts-thumbs-widget.php:257
+#: functions/newstrick-recent-posts-widget.php:368
+#: functions/newstrick-related-posts-thumbs-widget.php:243
+#: functions/newstrick-search-widget.php:152
+#: functions/newstrick-slider-widget.php:570
+#: functions/newstrick-small-slider-widget.php:370
+#: functions/newstrick-social-counter-widget.php:316
+#: functions/newstrick-social-widget.php:319
+#: functions/newstrick-tabbed-widget.php:474
+#: functions/newstrick-three-columns-thumbs-widget.php:1081
+#: functions/newstrick-twitter-widget.php:210
+#: functions/newstrick-two-columns-thumbs-widget.php:777
+#@ color-theme-framework
+msgid "Background Color:"
+msgstr ""
+
+#: functions/newstrick-blog-widget.php:495
+#: functions/newstrick-carousel-widget.php:338
+#: functions/newstrick-categories-widget.php:189
+#: functions/newstrick-fblikebox-widget.php:222
+#: functions/newstrick-fbsubscribe-widget.php:219
+#: functions/newstrick-flickr-widget.php:254
+#: functions/newstrick-instagram-widget.php:264
+#: functions/newstrick-news-ticker-horizontal-widget.php:256
+#: functions/newstrick-news-ticker-vertical-widget.php:317
+#: functions/newstrick-one-column-category-widget.php:338
+#: functions/newstrick-one-column-thumbs-widget.php:462
+#: functions/newstrick-popular-posts-widget.php:393
+#: functions/newstrick-recent-posts-thumbs-widget.php:263
+#: functions/newstrick-recent-posts-widget.php:374
+#: functions/newstrick-related-posts-thumbs-widget.php:249
+#: functions/newstrick-search-widget.php:158
+#: functions/newstrick-slider-widget.php:576
+#: functions/newstrick-small-slider-widget.php:376
+#: functions/newstrick-social-counter-widget.php:322
+#: functions/newstrick-social-widget.php:325
+#: functions/newstrick-tabbed-widget.php:480
+#: functions/newstrick-three-columns-thumbs-widget.php:889
+#: functions/newstrick-three-columns-thumbs-widget.php:961
+#: functions/newstrick-three-columns-thumbs-widget.php:1036
+#: functions/newstrick-twitter-widget.php:216
+#: functions/newstrick-two-columns-thumbs-widget.php:662
+#: functions/newstrick-two-columns-thumbs-widget.php:739
+#@ color-theme-framework
+msgid "Background Title Color:"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:39
+#@ color-theme-framework
+msgid "Carousel widget"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:45
+#@ color-theme-framework
+msgid "CT: Carousel Widget"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:145
+#: functions/newstrick-slider-widget.php:271
+#: includes/widget-video.php:48
+#@ color-theme-framework
+msgid "Watch Youtube Video"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:148
+#: functions/newstrick-slider-widget.php:274
+#: includes/widget-video.php:72
+#@ color-theme-framework
+msgid "Watch Vimeo Video"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:151
+#: functions/newstrick-slider-widget.php:277
+#: includes/widget-video.php:94
+#@ color-theme-framework
+msgid "Watch DailyMotion Video"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:165
+#: functions/newstrick-news-ticker-vertical-widget.php:84
+#: functions/newstrick-one-column-category-widget.php:77
+#: functions/newstrick-one-column-thumbs-widget.php:85
+#: functions/newstrick-three-columns-thumbs-widget.php:131
+#: functions/newstrick-three-columns-thumbs-widget.php:329
+#: functions/newstrick-three-columns-thumbs-widget.php:518
+#: functions/newstrick-two-columns-thumbs-widget.php:118
+#: functions/newstrick-two-columns-thumbs-widget.php:312
+#@ color-theme-framework
+msgid "View all posts in "
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:284
+#@ color-theme-framework
+msgid "Type of text to show:"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:294
+#: functions/newstrick-popular-posts-widget.php:309
+#: functions/newstrick-recent-posts-widget.php:288
+#: functions/newstrick-tabbed-widget.php:370
+#@ color-theme-framework
+msgid "Show related category posts"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:299
+#: functions/newstrick-recent-posts-thumbs-widget.php:229
+#: functions/newstrick-related-posts-thumbs-widget.php:213
+#: functions/newstrick-slider-widget.php:453
+#: functions/newstrick-small-slider-widget.php:311
+#@ color-theme-framework
+msgid "Random order"
+msgstr ""
+
+#: functions/newstrick-carousel-widget.php:304
+#@ color-theme-framework
+msgid "Animate carousel automatically"
+msgstr ""
+
+#: functions/newstrick-categories-widget.php:41
+#@ color-theme-framework
+msgid "Two columns categories widget"
+msgstr ""
+
+#: functions/newstrick-categories-widget.php:47
+#@ color-theme-framework
+msgid "CT: Categories Widget"
+msgstr ""
+
+#: functions/newstrick-categories-widget.php:134
+#@ color-theme-framework
+msgid "Categories"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:42
+#@ color-theme-framework
+msgid "Facebook Like Box Widget"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:48
+#@ color-theme-framework
+msgid "CT: Facebook Like Box"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:126
+#@ color-theme-framework
+msgid "FB Like Box"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:164
+#@ color-theme-framework
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:169
+#: functions/newstrick-fbsubscribe-widget.php:184
+#@ color-theme-framework
+msgid "Facebook Language:"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:176
+#: functions/newstrick-fbsubscribe-widget.php:191
+#@ color-theme-framework
+msgid "Show Faces"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:181
+#@ color-theme-framework
+msgid "Show Stream"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:186
+#@ color-theme-framework
+msgid "Show Header"
+msgstr ""
+
+#: functions/newstrick-fblikebox-widget.php:190
+#: functions/newstrick-fbsubscribe-widget.php:176
+#@ color-theme-framework
+msgid "Theme Color:"
+msgstr ""
+
+#: functions/newstrick-fbsubscribe-widget.php:42
+#@ color-theme-framework
+msgid "Facebook Subscribe Widget"
+msgstr ""
+
+#: functions/newstrick-fbsubscribe-widget.php:48
+#@ color-theme-framework
+msgid "CT: Facebook Subscribe"
+msgstr ""
+
+#: functions/newstrick-fbsubscribe-widget.php:126
+#@ color-theme-framework
+msgid "Facebook Subscribe"
+msgstr ""
+
+#: functions/newstrick-fbsubscribe-widget.php:162
+#@ color-theme-framework
+msgid "Profile URL:"
+msgstr ""
+
+#: functions/newstrick-fbsubscribe-widget.php:167
+#@ color-theme-framework
+msgid "Layout Style:"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:41
+#@ color-theme-framework
+msgid "CT: Flickr Widget"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:168
+#@ color-theme-framework
+msgid "Flickr"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:205
+#@ color-theme-framework
+msgid "User ID:"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:210
+#: functions/newstrick-instagram-widget.php:221
+#@ color-theme-framework
+msgid "The number of displayed images:"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:215
+#: functions/newstrick-instagram-widget.php:226
+#@ color-theme-framework
+msgid "Image size (height/width):"
+msgstr ""
+
+#: functions/newstrick-flickr-widget.php:220
+#@ color-theme-framework
+msgid "Feed type:"
+msgstr ""
+
+#: functions/newstrick-instagram-widget.php:41
+#@ color-theme-framework
+msgid "CT: Instagram Widget"
+msgstr ""
+
+#: functions/newstrick-instagram-widget.php:167
+#@ color-theme-framework
+msgid "Instagram Feed"
+msgstr ""
+
+#: functions/newstrick-instagram-widget.php:206
+#@ color-theme-framework
+msgid "Your Instagram application clientID:"
+msgstr ""
+
+#: functions/newstrick-instagram-widget.php:211
+#@ color-theme-framework
+msgid "Your Instagram access token:"
+msgstr ""
+
+#: functions/newstrick-instagram-widget.php:216
+#@ color-theme-framework
+msgid "Query (user name or tag):"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show latest (featured) posts titles in a scrolling newsticker"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:46
+#@ color-theme-framework
+msgid "CT: News Ticker Horizontal"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:168
+#: functions/newstrick-news-ticker-vertical-widget.php:209
+#@ color-theme-framework
+msgid "Breaking News"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:203
+#: functions/newstrick-related-posts-thumbs-widget.php:207
+#@ color-theme-framework
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:209
+#@ color-theme-framework
+msgid "Show Controls"
+msgstr ""
+
+#: functions/newstrick-news-ticker-horizontal-widget.php:224
+#@ color-theme-framework
+msgid "Show:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:41
+#@ color-theme-framework
+msgid "News Ticker Vertical"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:47
+#@ color-theme-framework
+msgid "CT: News Ticker Vertical"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:137
+#, php-format
+#@ color-theme-framework
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:256
+#@ color-theme-framework
+msgid "Number of news to query:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:262
+#@ color-theme-framework
+msgid "Number of visible news:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:268
+#@ color-theme-framework
+msgid "Min Height of widget (px):"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:273
+#@ color-theme-framework
+msgid "Speed, in milliseconds:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:279
+#@ color-theme-framework
+msgid "Interval, in milliseconds:"
+msgstr ""
+
+#: functions/newstrick-news-ticker-vertical-widget.php:285
+#@ color-theme-framework
+msgid "Show meta:"
+msgstr ""
+
+#: functions/newstrick-one-column-category-widget.php:41
+#@ color-theme-framework
+msgid "One Column Category Widget"
+msgstr ""
+
+#: functions/newstrick-one-column-category-widget.php:47
+#@ color-theme-framework
+msgid "CT: One Column Category Widget"
+msgstr ""
+
+#: functions/newstrick-one-column-category-widget.php:243
+#@ color-theme-framework
+msgid "Category Name"
+msgstr ""
+
+#: functions/newstrick-one-column-category-widget.php:290
+#@ color-theme-framework
+msgid "Height of embedded video (px):"
+msgstr ""
+
+#: functions/newstrick-one-column-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "One Column Thumbs Widget (show recent posts)."
+msgstr ""
+
+#: functions/newstrick-one-column-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: One Column Thumbs Widget"
+msgstr ""
+
+#: functions/newstrick-one-column-thumbs-widget.php:325
+#: functions/newstrick-recent-posts-widget.php:239
+#: functions/newstrick-tabbed-widget.php:317
+#@ color-theme-framework
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/newstrick-one-column-thumbs-widget.php:370
+#: functions/newstrick-popular-posts-widget.php:314
+#: functions/newstrick-recent-posts-widget.php:293
+#: functions/newstrick-tabbed-widget.php:375
+#: functions/newstrick-three-columns-thumbs-widget.php:834
+#: functions/newstrick-three-columns-thumbs-widget.php:906
+#: functions/newstrick-three-columns-thumbs-widget.php:981
+#: functions/newstrick-two-columns-thumbs-widget.php:602
+#: functions/newstrick-two-columns-thumbs-widget.php:679
+#@ color-theme-framework
+msgid "Show thumbnail image"
+msgstr ""
+
+#: functions/newstrick-one-column-thumbs-widget.php:414
+#: functions/newstrick-three-columns-thumbs-widget.php:1068
+#: functions/newstrick-two-columns-thumbs-widget.php:646
+#: functions/newstrick-two-columns-thumbs-widget.php:723
+#@ color-theme-framework
+msgid "Height of embedded video or audio  (px):"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:40
+#: functions/newstrick-tabbed-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:46
+#@ color-theme-framework
+msgid "CT: Popular Posts"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:79
+#@ color-theme-framework
+msgid "Order by "
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:260
+#@ color-theme-framework
+msgid "Most Popular"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:348
+#: functions/newstrick-recent-posts-widget.php:327
+#: functions/newstrick-tabbed-widget.php:409
+#@ color-theme-framework
+msgid "Show as striped"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:352
+#: functions/newstrick-recent-posts-widget.php:342
+#: functions/newstrick-tabbed-widget.php:424
+#@ color-theme-framework
+msgid "Thumbnail position:"
+msgstr ""
+
+#: functions/newstrick-popular-posts-widget.php:360
+#@ color-theme-framework
+msgid "Order by:"
+msgstr ""
+
+#: functions/newstrick-recent-posts-thumbs-widget.php:39
+#@ color-theme-framework
+msgid "Displays Recent Posts Thumbs"
+msgstr ""
+
+#: functions/newstrick-recent-posts-thumbs-widget.php:45
+#@ color-theme-framework
+msgid "CT: Recent Posts Thumbs"
+msgstr ""
+
+#: functions/newstrick-recent-posts-thumbs-widget.php:172
+#@ color-theme-framework
+msgid "Recent Posts Thumbs"
+msgstr ""
+
+#: functions/newstrick-recent-posts-thumbs-widget.php:219
+#@ color-theme-framework
+msgid "Show big image"
+msgstr ""
+
+#: functions/newstrick-recent-posts-thumbs-widget.php:224
+#@ color-theme-framework
+msgid "Show related posts by Category"
+msgstr ""
+
+#: functions/newstrick-recent-posts-widget.php:41
+#@ color-theme-framework
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: functions/newstrick-recent-posts-widget.php:47
+#@ color-theme-framework
+msgid "CT: Recent Posts"
+msgstr ""
+
+#: functions/newstrick-related-posts-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show related posts by tags or category"
+msgstr ""
+
+#: functions/newstrick-related-posts-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: Related Posts Thumbs"
+msgstr ""
+
+#: functions/newstrick-related-posts-thumbs-widget.php:111
+#: functions/newstrick-related-posts-thumbs-widget.php:112
+#: functions/newstrick-related-posts-thumbs-widget.php:133
+#: functions/newstrick-small-slider-widget.php:182
+#@ color-theme-framework
+msgid "No related posts were found"
+msgstr ""
+
+#: functions/newstrick-related-posts-thumbs-widget.php:173
+#@ color-theme-framework
+msgid "Related Posts"
+msgstr ""
+
+#: functions/newstrick-related-posts-thumbs-widget.php:217
+#@ color-theme-framework
+msgid "Show related posts by:"
+msgstr ""
+
+#: functions/newstrick-search-widget.php:41
+#@ color-theme-framework
+msgid "Search Widget"
+msgstr ""
+
+#: functions/newstrick-search-widget.php:47
+#@ color-theme-framework
+msgid "CT: Search"
+msgstr ""
+
+#: functions/newstrick-search-widget.php:103
+#: searchform.php:11
+#: searchform.php:12
+#: searchform.php:13
+#@ color-theme-framework
+msgid "Search"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:40
+#@ color-theme-framework
+msgid "Flex Slider widget"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:46
+#@ color-theme-framework
+msgid "CT: Slider Widget"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:297
+#: functions/newstrick-social-counter-widget.php:146
+#@ color-theme-framework
+msgid "Fans"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:305
+#: functions/newstrick-social-counter-widget.php:154
+#@ color-theme-framework
+msgid "Followers"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:313
+#: functions/newstrick-social-counter-widget.php:162
+#@ color-theme-framework
+msgid "Subscribers"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:323
+#: functions/newstrick-social-counter-widget.php:170
+#@ color-theme-framework
+msgid "RSS"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:438
+#@ color-theme-framework
+msgid "Show carousel"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:443
+#@ color-theme-framework
+msgid "Show post title"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:448
+#@ color-theme-framework
+msgid "Show post text"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:458
+#: functions/newstrick-small-slider-widget.php:276
+#@ color-theme-framework
+msgid "Animate slider automatically"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:468
+#: functions/newstrick-small-slider-widget.php:321
+#@ color-theme-framework
+msgid "Slideshow speed, in millisec:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:474
+#: functions/newstrick-small-slider-widget.php:327
+#@ color-theme-framework
+msgid "Animation speed, in millisec:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:480
+#: functions/newstrick-small-slider-widget.php:333
+#@ color-theme-framework
+msgid "Animation type:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:488
+#@ color-theme-framework
+msgid "Position of navigation arrows:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:507
+#@ color-theme-framework
+msgid "Social counters settings"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:511
+#: functions/newstrick-social-counter-widget.php:257
+#@ color-theme-framework
+msgid "Twitter ID:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:516
+#: functions/newstrick-social-counter-widget.php:262
+#@ color-theme-framework
+msgid "Facebook ID:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:521
+#: functions/newstrick-social-counter-widget.php:267
+#@ color-theme-framework
+msgid "YouTube ID:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:526
+#: functions/newstrick-social-counter-widget.php:272
+#@ color-theme-framework
+msgid "FeedBurner ID:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:531
+#: functions/newstrick-social-counter-widget.php:277
+#@ color-theme-framework
+msgid "Show counters:"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:535
+#: functions/newstrick-social-counter-widget.php:281
+#@ color-theme-framework
+msgid "Twitter"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:539
+#: functions/newstrick-social-counter-widget.php:285
+#@ color-theme-framework
+msgid "Facebook"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:543
+#: functions/newstrick-social-counter-widget.php:289
+#@ color-theme-framework
+msgid "Youtube"
+msgstr ""
+
+#: functions/newstrick-slider-widget.php:548
+#: functions/newstrick-social-counter-widget.php:170
+#: functions/newstrick-social-counter-widget.php:294
+#@ color-theme-framework
+msgid "FeedBurner"
+msgstr ""
+
+#: functions/newstrick-small-slider-widget.php:40
+#@ color-theme-framework
+msgid "Small Flex Slider widget"
+msgstr ""
+
+#: functions/newstrick-small-slider-widget.php:46
+#@ color-theme-framework
+msgid "CT: Small Slider Widget"
+msgstr ""
+
+#: functions/newstrick-small-slider-widget.php:306
+#@ color-theme-framework
+msgid "Show related category posts (for posts, category pages, etc.)"
+msgstr ""
+
+#: functions/newstrick-social-counter-widget.php:41
+#@ color-theme-framework
+msgid "Social Counter Widget"
+msgstr ""
+
+#: functions/newstrick-social-counter-widget.php:47
+#@ color-theme-framework
+msgid "CT: Social Counter"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:41
+#@ color-theme-framework
+msgid "Social Icons Widget"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:47
+#@ color-theme-framework
+msgid "CT: Social Icons"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:162
+#@ color-theme-framework
+msgid "Get Social"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:211
+#@ color-theme-framework
+msgid "URL for Behance Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:216
+#@ color-theme-framework
+msgid "URL for Delicious Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:221
+#@ color-theme-framework
+msgid "URL for Deviantart Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:226
+#@ color-theme-framework
+msgid "URL for Digg Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:231
+#@ color-theme-framework
+msgid "URL for Dribbble Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:236
+#@ color-theme-framework
+msgid "URL for Facebook Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:241
+#@ color-theme-framework
+msgid "URL for Flickr Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:246
+#@ color-theme-framework
+msgid "URL for Forrst Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:251
+#@ color-theme-framework
+msgid "URL for Google Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:256
+#@ color-theme-framework
+msgid "URL for LastFm Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:261
+#@ color-theme-framework
+msgid "URL for Linkedin Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:266
+#@ color-theme-framework
+msgid "URL for Pinterest Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:271
+#@ color-theme-framework
+msgid "URL for RSS Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:276
+#@ color-theme-framework
+msgid "URL for Skype Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:281
+#@ color-theme-framework
+msgid "URL for Tumblr Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:286
+#@ color-theme-framework
+msgid "URL for Twitter Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:291
+#@ color-theme-framework
+msgid "URL for Vimeo Service:"
+msgstr ""
+
+#: functions/newstrick-social-widget.php:296
+#@ color-theme-framework
+msgid "URL for Youtube Service:"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:46
+#@ color-theme-framework
+msgid "CT: Tabbed Widget"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:247
+#@ color-theme-framework
+msgid "Author"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:250
+#: functions.php:1000
+#@ color-theme-framework
+msgid "Date"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:318
+#@ color-theme-framework
+msgid "Recent Comments"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:359
+#@ color-theme-framework
+msgid "Title1:"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:432
+#@ color-theme-framework
+msgid "Recent Comment Settings"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:436
+#@ color-theme-framework
+msgid "Title2:"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:442
+#: functions/newstrick-twitter-widget.php:176
+#@ color-theme-framework
+msgid "Show avatar"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:446
+#@ color-theme-framework
+msgid "Number of comments:"
+msgstr ""
+
+#: functions/newstrick-tabbed-widget.php:451
+#@ color-theme-framework
+msgid "Comments lenght:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:41
+#@ color-theme-framework
+msgid "Advanced Text Widget"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:47
+#@ color-theme-framework
+msgid "CT: Advanced Text Widget"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:140
+#@ color-theme-framework
+msgid "Text"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:188
+#@ color-theme-framework
+msgid "Remove background"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:193
+#@ color-theme-framework
+msgid "Remove margins"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:198
+#@ color-theme-framework
+msgid "Display as Blockquote"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:220
+#@ color-theme-framework
+msgid "Text align:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:229
+#@ color-theme-framework
+msgid "Text transform:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:239
+#@ color-theme-framework
+msgid "Font style:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:247
+#@ color-theme-framework
+msgid "Font weight:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:255
+#@ color-theme-framework
+msgid "Font size (px):"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:260
+#@ color-theme-framework
+msgid "Line height (px):"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:265
+#@ color-theme-framework
+msgid "Font color:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:271
+#@ color-theme-framework
+msgid "Background color:"
+msgstr ""
+
+#: functions/newstrick-text-widget.php:277
+#@ color-theme-framework
+msgid "Background title color:"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "Three Columns Thumbs Widget (show recent posts)."
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: Three Columns Magazine Widget"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:762
+#: functions/newstrick-two-columns-thumbs-widget.php:543
+#@ color-theme-framework
+msgid "First Column"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:776
+#: functions/newstrick-three-columns-thumbs-widget.php:788
+#: functions/newstrick-two-columns-thumbs-widget.php:557
+#@ color-theme-framework
+msgid "Second Column"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:825
+#: functions/newstrick-two-columns-thumbs-widget.php:593
+#@ color-theme-framework
+msgid "First column settings:"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:896
+#: functions/newstrick-two-columns-thumbs-widget.php:669
+#@ color-theme-framework
+msgid "Second column settings:"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:971
+#@ color-theme-framework
+msgid "Third column settings:"
+msgstr ""
+
+#: functions/newstrick-three-columns-thumbs-widget.php:1046
+#: functions/newstrick-two-columns-thumbs-widget.php:747
+#@ color-theme-framework
+msgid "Common settings:"
+msgstr ""
+
+#: functions/newstrick-twitter-widget.php:35
+#@ color-theme-framework
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions/newstrick-twitter-widget.php:41
+#@ color-theme-framework
+msgid "CT: Twitter Widget"
+msgstr ""
+
+#: functions/newstrick-twitter-widget.php:139
+#@ color-theme-framework
+msgid "Latest Tweets"
+msgstr ""
+
+#: functions/newstrick-twitter-widget.php:181
+#@ color-theme-framework
+msgid "User Name:"
+msgstr ""
+
+#: functions/newstrick-twitter-widget.php:187
+#@ color-theme-framework
+msgid "The Number of Displayed Messages:"
+msgstr ""
+
+#: functions/newstrick-two-columns-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "Two Columns Thumbs Widget (show recent posts)."
+msgstr ""
+
+#: functions/newstrick-two-columns-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: Two Columns Magazine Widget"
+msgstr ""
+
+#: functions.php:73
+#@ color-theme-framework
+msgid "main navigation"
+msgstr ""
+
+#: functions.php:74
+#@ color-theme-framework
+msgid "bottom navigation"
+msgstr ""
+
+#: functions.php:103
+#, php-format
+#@ color-theme-framework
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:123
+#@ color-theme-framework
+msgid "Magazine Widgets - Row #"
+msgstr ""
+
+#: functions.php:124
+#@ color-theme-framework
+msgid "Appears on Home page if selected the appropriate layout"
+msgstr ""
+
+#: functions.php:134
+#@ color-theme-framework
+msgid "Magazine Top Widgets"
+msgstr ""
+
+#: functions.php:136
+#: functions.php:146
+#: functions.php:156
+#: functions.php:166
+#@ color-theme-framework
+msgid "Appears on Home page"
+msgstr ""
+
+#: functions.php:145
+#@ color-theme-framework
+msgid "Magazine Center Widgets"
+msgstr ""
+
+#: functions.php:178
+#: functions.php:189
+#: functions.php:200
+#: functions.php:210
+#: functions.php:220
+#@ color-theme-framework
+msgid "Appears on posts"
+msgstr ""
+
+#: functions.php:230
+#@ color-theme-framework
+msgid "Appears on pages"
+msgstr ""
+
+#: functions.php:242
+#: functions.php:274
+#: functions.php:284
+#@ color-theme-framework
+msgid "Appears on category page"
+msgstr ""
+
+#: functions.php:253
+#@ color-theme-framework
+msgid "Appears on category page, before content"
+msgstr ""
+
+#: functions.php:264
+#@ color-theme-framework
+msgid "Appears on category page, after content"
+msgstr ""
+
+#: functions.php:296
+#: functions.php:307
+#: functions.php:318
+#: functions.php:328
+#: functions.php:338
+#@ color-theme-framework
+msgid "Appears when using the Blog template"
+msgstr ""
+
+#: functions.php:360
+#@ color-theme-framework
+msgid "Appears on footer area"
+msgstr ""
+
+#: functions.php:405
+#: includes/theme-metaboxes.php:168
+#@ color-theme-framework
+msgid "Featured"
+msgstr ""
+
+#: functions.php:765
+#@ color-theme-framework
+msgid "Error retrieving video information from the URL"
+msgstr ""
+
+#: functions.php:879
+#: functions.php:994
+#@ color-theme-framework
+msgid "Views"
+msgstr ""
+
+#: functions.php:980
+#@ color-theme-framework
+msgid "Likes"
+msgstr ""
+
+#: functions.php:989
+#@ color-theme-framework
+msgid "0"
+msgstr ""
+
+#: functions.php:989
+#@ color-theme-framework
+msgid "1"
+msgstr ""
+
+#: functions.php:989
+#@ color-theme-framework
+msgid "%"
+msgstr ""
+
+#: functions.php:1006
+#@ color-theme-framework
+msgid "Category"
+msgstr ""
+
+#: functions.php:1023
+#@ color-theme-framework
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:1178
+#: template-archives.php:27
+#@ color-theme-framework
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1183
+#@ color-theme-framework
+msgid "Next page"
+msgstr ""
+
+#: functions.php:1184
+#@ color-theme-framework
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:1291
+#: functions.php:1346
+#@ color-theme-framework
+msgid "Review Score: "
+msgstr ""
+
+#: functions.php:1397
+#@ color-theme-framework
+msgid "Criteria Score: "
+msgstr ""
+
+#: functions.php:1406
+#@ color-theme-framework
+msgid "more"
+msgstr ""
+
+#: functions.php:1443
+#@ color-theme-framework
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1443
+#@ color-theme-framework
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:1457
+#@ color-theme-framework
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:1468
+#, php-format
+#@ color-theme-framework
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1474
+#@ color-theme-framework
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1483
+#@ color-theme-framework
+msgid "Reply"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:33
+#@ color-theme-framework
+msgid "Rebuild all Thumbnails"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:33
+#@ color-theme-framework
+msgid "Rebuild Thumbnails"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:52
+#@ color-theme-framework
+msgid "Reading attachments..."
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:73
+#@ color-theme-framework
+msgid "No attachments found."
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:81
+#@ color-theme-framework
+msgid "Done."
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:84
+#, php-format
+#@ ajax-thumbnail-rebuild
+msgid "\"Rebuilding \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:103
+#@ color-theme-framework
+msgid "Error"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:120
+#@ color-theme-framework
+msgid "Select which thumbnails you want to rebuild"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:121
+#@ color-theme-framework
+msgid "Toggle all"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:131
+#@ color-theme-framework
+msgid "cropped"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:138
+#@ color-theme-framework
+msgid "Only rebuild featured images"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:141
+#@ color-theme-framework
+msgid "Note: If you've changed the dimensions of your thumbnails, existing thumbnail images will not be deleted."
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:145
+#@ color-theme-framework
+msgid "Rebuild All Thumbnails"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:149
+#@ color-theme-framework
+msgid "Last image"
+msgstr ""
+
+#: includes/ajax-thumbnail-rebuild.php:152
+#, php-format
+#@ color-theme-framework
+msgid "If you find this plugin useful, I'd be happy to read your comments on the %splugin homepage%s. If you experience any problems, feel free to leave a comment too."
+msgstr ""
+
+#: includes/author_social.php:34
+#@ color-theme-framework
+msgid "Twitter Service:"
+msgstr ""
+
+#: includes/author_social.php:38
+#@ color-theme-framework
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: includes/author_social.php:42
+#@ color-theme-framework
+msgid "Facebook Service:"
+msgstr ""
+
+#: includes/author_social.php:46
+#@ color-theme-framework
+msgid "Please enter your Facebook username."
+msgstr ""
+
+#: includes/author_social.php:50
+#@ color-theme-framework
+msgid "Google Plus Service:"
+msgstr ""
+
+#: includes/author_social.php:54
+#@ color-theme-framework
+msgid "Please enter your Google Plus username."
+msgstr ""
+
+#: includes/author_social.php:58
+#@ color-theme-framework
+msgid "Flickr Service:"
+msgstr ""
+
+#: includes/author_social.php:62
+#@ color-theme-framework
+msgid "Please enter your Flickr username."
+msgstr ""
+
+#: includes/rating-system.php:50
+#: includes/theme-metaboxes.php:223
+#@ color-theme-framework
+msgid "Review Post"
+msgstr ""
+
+#: includes/sidebar-generator.php:60
+#@ color-theme-framework
+msgid "Custom Sidebar. Appears on posts or pages"
+msgstr ""
+
+#: includes/sidebar-generator.php:176
+#: includes/sidebar-generator.php:197
+#@ color-theme-framework
+msgid "Custom Sidebars"
+msgstr ""
+
+#: includes/sidebar-generator.php:227
+#@ color-theme-framework
+msgid "No Sidebars defined"
+msgstr ""
+
+#: includes/sidebar-generator.php:280
+#@ color-theme-framework
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:34
+#@ color-theme-framework
+msgid "Custom Page Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:40
+#@ color-theme-framework
+msgid "Allow Comments"
+msgstr ""
+
+#: includes/theme-metaboxes.php:46
+#@ color-theme-framework
+msgid "Custom Page Description"
+msgstr ""
+
+#: includes/theme-metaboxes.php:47
+#@ color-theme-framework
+msgid "Text for page description. Appears under page title."
+msgstr ""
+
+#: includes/theme-metaboxes.php:62
+#@ color-theme-framework
+msgid "Custom Background Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:68
+#@ color-theme-framework
+msgid "Custom Background Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:71
+#@ color-theme-framework
+msgid "Upload a custom background image for this page. Once uploaded, click \"Insert to Post\"."
+msgstr ""
+
+#: includes/theme-metaboxes.php:74
+#@ color-theme-framework
+msgid "Custom Background Repeat"
+msgstr ""
+
+#: includes/theme-metaboxes.php:83
+#@ color-theme-framework
+msgid "Select a custom background repeat for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:86
+#@ color-theme-framework
+msgid "Custom Background Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:95
+#@ color-theme-framework
+msgid "Select a custom background position for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:98
+#@ color-theme-framework
+msgid "Custom Background Attachment"
+msgstr ""
+
+#: includes/theme-metaboxes.php:105
+#@ color-theme-framework
+msgid "Select a custom background attachment for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:108
+#@ color-theme-framework
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/theme-metaboxes.php:111
+#@ color-theme-framework
+msgid "Select a custom background color for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:120
+#@ color-theme-framework
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:124
+#@ color-theme-framework
+msgid "Add Images for Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:136
+#@ color-theme-framework
+msgid "Post Format: Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:142
+#@ color-theme-framework
+msgid "Type of Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:154
+#@ color-theme-framework
+msgid "Video ID"
+msgstr ""
+
+#: includes/theme-metaboxes.php:156
+#@ color-theme-framework
+msgid "Enter Video ID"
+msgstr ""
+
+#: includes/theme-metaboxes.php:162
+#@ color-theme-framework
+msgid "Type of Video Thumb"
+msgstr ""
+
+#: includes/theme-metaboxes.php:163
+#@ color-theme-framework
+msgid "Choose the type of thumbnail : auto generated from video service or use featured image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:167
+#@ color-theme-framework
+msgid "Player"
+msgstr ""
+
+#: includes/theme-metaboxes.php:180
+#@ color-theme-framework
+msgid "Post Format: Audio"
+msgstr ""
+
+#: includes/theme-metaboxes.php:186
+#@ color-theme-framework
+msgid "Type of Audio Thumb (for Blog, Widgets, etc.)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:187
+#@ color-theme-framework
+msgid "Choose the type of thumbnail : iframe player or featured image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:191
+#@ color-theme-framework
+msgid "Iframe Player"
+msgstr ""
+
+#: includes/theme-metaboxes.php:192
+#@ color-theme-framework
+msgid "Featured Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:197
+#@ color-theme-framework
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/theme-metaboxes.php:199
+#@ color-theme-framework
+msgid "Paste code from Soundcloud Service"
+msgstr ""
+
+#: includes/theme-metaboxes.php:212
+#@ color-theme-framework
+msgid "Settings for Review"
+msgstr ""
+
+#: includes/theme-metaboxes.php:217
+#@ color-theme-framework
+msgid "Select Type of Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:222
+#@ color-theme-framework
+msgid "Standard Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:231
+#@ color-theme-framework
+msgid "Color for Score Stars"
+msgstr ""
+
+#: includes/theme-metaboxes.php:239
+#@ color-theme-framework
+msgid "Color for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:248
+#@ color-theme-framework
+msgid "Overall Score Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:252
+#@ color-theme-framework
+msgid "Enter name for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:255
+#@ color-theme-framework
+msgid "Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:262
+#@ color-theme-framework
+msgid "Overall Score ( from 0.5 to 5 )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:285
+#@ color-theme-framework
+msgid "Criteria #1 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:287
+#@ color-theme-framework
+msgid "Enter name for Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:289
+#@ color-theme-framework
+msgid "Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:294
+#@ color-theme-framework
+msgid "Criteria #1 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:317
+#@ color-theme-framework
+msgid "Criteria #2 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:319
+#@ color-theme-framework
+msgid "Enter name for Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:321
+#@ color-theme-framework
+msgid "Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:326
+#@ color-theme-framework
+msgid "Criteria #2 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:349
+#@ color-theme-framework
+msgid "Criteria #3 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:351
+#@ color-theme-framework
+msgid "Enter name for Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:353
+#@ color-theme-framework
+msgid "Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:358
+#@ color-theme-framework
+msgid "Criteria #3 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:381
+#@ color-theme-framework
+msgid "Criteria #4 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:383
+#@ color-theme-framework
+msgid "Enter name for Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:385
+#@ color-theme-framework
+msgid "Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:390
+#@ color-theme-framework
+msgid "Criteria #4 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:412
+#@ color-theme-framework
+msgid "Criteria #5 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:414
+#@ color-theme-framework
+msgid "Enter name for Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:416
+#@ color-theme-framework
+msgid "Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:421
+#@ color-theme-framework
+msgid "Criteria #5 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:442
+#@ color-theme-framework
+msgid "Summary"
+msgstr ""
+
+#: includes/theme-metaboxes.php:443
+#@ color-theme-framework
+msgid "Enter your text"
+msgstr ""
+
+#: includes/widget-gallery.php:82
+#@ color-theme-framework
+msgid "Click on image to start slideshow"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:284
+#@ rwmb
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:342
+#@ rwmb
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:364
+#@ rwmb
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:65
+#: meta-box/inc/fields/file_single.php:64
+#@ rwmb
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:79
+#: meta-box/inc/fields/file_single.php:78
+#@ rwmb
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:80
+#@ rwmb
+msgctxt "file upload"
+msgid "Upload files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:81
+#@ rwmb
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:64
+#@ rwmb
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:78
+#: meta-box/inc/fields/thickbox-image.php:35
+#@ rwmb
+msgctxt "image upload"
+msgid "Upload images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:79
+#@ rwmb
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:136
+#@ rwmb
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:137
+#@ rwmb
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:46
+#@ rwmb
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:87
+#@ rwmb
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:111
+#@ rwmb
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:112
+#@ rwmb
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:113
+#@ rwmb
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/select-advanced.php:81
+#@ rwmb
+msgid "Select a value"
+msgstr ""
+
+#: post-like.php:86
+#: post-like.php:88
+#@ color-theme-framework
+msgid "I like this article"
+msgstr ""
+
+#: template-archives.php:26
+#@ color-theme-framework
+msgid "Read more..."
+msgstr ""
+
+#: template-archives.php:32
+#@ color-theme-framework
+msgid "Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:42
+#@ color-theme-framework
+msgid "Archives by Month:"
+msgstr ""
+
+#: template-archives.php:49
+#@ color-theme-framework
+msgid "Archives by Subject:"
+msgstr ""
+
+#: template-contacts.php:48
+#@ color-theme-framework
+msgid "Message was sent to website administrator. Thank you!"
+msgstr ""
+
+#: template-contacts.php:74
+#@ color-theme-framework
+msgid "Your Name"
+msgstr ""
+
+#: template-contacts.php:77
+#@ color-theme-framework
+msgid "Your Email Address"
+msgstr ""
+
+#: template-contacts.php:80
+#@ color-theme-framework
+msgid "Your URL"
+msgstr ""
+
+#: template-contacts.php:83
+#@ color-theme-framework
+msgid "Subject"
+msgstr ""
+
+#: template-contacts.php:88
+#@ color-theme-framework
+msgid "Type your questions here..."
+msgstr ""
+
+#: template-contacts.php:89
+#@ color-theme-framework
+msgid "Send Message"
+msgstr ""
+
