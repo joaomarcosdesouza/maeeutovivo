@@ -1,21 +1,20 @@
 version: '2'
 services:
-  web:
-    image: basecamp/ree-1.8.7
+
+  wordpress:
+    image: wordpress
     ports:
-      - "80:80"
+      - 80:80
+    environment:
+      WORDPRESS_DB_PASSWORD: maeeutovivo
+    volumes:
+      - ./blog/wp-newstrick:/var/www/html/wp-content/themes/wp-newstrick
     links:
       - db
-    volumes:
-      - ./blog:/blog
 
-  db:
-    image: mysql
+  mysql:
+    image: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: maeeutovivo
     volumes:
       - ./mysql-data:/var/lib/mysql
-      - ./mysql-import-data:/import-data
-    environment:
-      MYSQL_ROOT_PASSWORD: root-password9876
-      MYSQL_DATABASE: maeeutovivo
-      MYSQL_USER: maeeutovivo
-      MYSQL_PASSWORD: maeeutovivo
