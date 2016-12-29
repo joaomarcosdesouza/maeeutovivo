@@ -1,0 +1,21 @@
+version: '2'
+services:
+  web:
+    image: basecamp/ree-1.8.7
+    ports:
+      - "80:80"
+    links:
+      - db
+    volumes:
+      - ./blog:/blog
+
+  db:
+    image: mysql
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+      - ./mysql-import-data:/import-data
+    environment:
+      MYSQL_ROOT_PASSWORD: root-password9876
+      MYSQL_DATABASE: maeeutovivo
+      MYSQL_USER: maeeutovivo
+      MYSQL_PASSWORD: maeeutovivo
